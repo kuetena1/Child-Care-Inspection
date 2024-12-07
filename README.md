@@ -11,11 +11,11 @@ This project analyzes childcare inspection data to identify patterns, trends, an
 
 
 ## Problem Statement:
-Childcare centers are subject to regular inspections to meet safety and regulatory standards. However, the data must be systematically analyzed to identify areas for improvement, common violations, and trends over time. This analysis will help in making informed decisions to enhance the overall quality of child services.
+Childcare centers are subject to regular inspections to meet safety and regulatory standards. However, the data must be systematically analyzed to identify areas for improvement, common violations, and trends over time. This analysis will help make informed decisions to enhance the overall quality of child services.
 
 ## Tools Utilized
 
-SQL server management Studio (ssms) for data extraction, transformation, and [querying]()
+SQL server management Studio (ssms) for data extraction, transformation, and [querying](https://github.com/kuetena1/Child-Care-Inspection/blob/main/child_care_queries.sql)
 
 ## Here are steps to query the database and extract valuable insights.
 

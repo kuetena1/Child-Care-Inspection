@@ -7,17 +7,17 @@
 
 ## Project Overview
 
-This project analyzes childcare inspection data to identify patterns, trends, and insights related to various childcare centers, their inspection results, and violation categories. The analysis aims to provide actionable recommendations to improve compliance and safety in childcare facilities. The NYC OpenData provided the [Dataset](https://data.cityofnewyork.us/Health/DOHMH-Childcare-Center-Inspections/dsg6ifza/about_data)
+This project analyzes childcare inspection data to identify patterns, trends, and insights related to various childcare centers, inspection results, and violation categories. The analysis aims to provide actionable recommendations to improve compliance and safety in childcare facilities. The NYC OpenData provided the [Dataset](https://data.cityofnewyork.us/Health/DOHMH-Childcare-Center-Inspections/dsg6-ifza/about_data)
 
 
 ## Problem Statement:
-Child care centers are subject to regular inspections to ensure they meet safety and regulatory standards. However, there is a need to systematically analyze the data to indentify areas of improvement, common violations, and trends over time. This analyis will help in making informed decision to enhance the overall quality of child services.
+Childcare centers are subject to regular inspections to meet safety and regulatory standards. However, the data must be systematically analyzed to identify areas for improvement, common violations, and trends over time. This analysis will help in making informed decisions to enhance the overall quality of child services.
 
 ## Tools Utilized
 
-SQL server mangment Studio (ssms) for data extraction, transformation and [querying]()
+SQL server management Studio (ssms) for data extraction, transformation, and [querying]()
 
-## Here are steps taken to query the database and extract valuable insights.
+## Here are steps to query the database and extract valuable insights.
 
 
 ### Inspection periode 
@@ -25,7 +25,7 @@ SQL server mangment Studio (ssms) for data extraction, transformation and [query
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/periode%20of%20study.png)
 
 
-### identifying the types of child care centers and their frequencies 
+### Identifying the types of child care centers and their frequencies 
 
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/child%20care%20type.png)
 
@@ -56,19 +56,19 @@ SQL server mangment Studio (ssms) for data extraction, transformation and [query
 
 
 
-### What are the top 10 inspection summary results.
+### What are the top 10 inspection summary results?
 
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/top%2010%20inspection%20results.png)
 
 
 
-###  What are the citywide average violation for each violation category
+###  What are the citywide average violations for each violation category
 
 
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/average%20for%20the%203%20categories%20of%20violations.png)
 
 
-### This query will provide a comparison of the actual violation rate to the citywide average violation rate for the general violation category, broken down by child care type
+### This query will provide a comparison of the actual violation rate to the citywide average violation rate for the general violation category, broken down by childcare type
 
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/General%20violation%201.png)
 ![](https://github.com/kuetena1/Child-Care-Inspection/blob/main/images/general%20violatio%202.png)
